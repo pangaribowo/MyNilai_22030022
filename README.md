@@ -1,6 +1,6 @@
 # Sistem Penghitungan Nilai Mahasiswa
 
-![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/blob/main/apk.jpeg)
+![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/blob/main/apk.png)
 
 ## Deskripsi:
 
