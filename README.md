@@ -76,7 +76,7 @@ Terima kasih telah menggunakan Aplikasi Sistem Penghitungan Nilai Mahasiswa!
 
 Anda dapat berkontribusi dengan membuat _fork_ dan mengirimkan _pull request_.
 
-BUILD OUTPUT DESCRIPTION ========================
+======================== BUILD OUTPUT DESCRIPTION ======================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
