@@ -1,6 +1,6 @@
 # Sistem Penghitungan Nilai Mahasiswa
 
-![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/blob/main/apk.png)
+![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/img/blob/main/apk.png)
 
 ## Deskripsi:
 
@@ -46,7 +46,7 @@ Menyesuaikan bobot untuk setiap komponen penilaian jika diperlukan.
 3. Aplikasi secara otomatis menghitung nilai akhir dan menampilkan hasilnya.
 Pengguna mendapatkan informasi grade berdasarkan nilai akhir.
 4. Gunakan button "Reset" untuk menghapus inputan atau "Hitung" untuk mendapatkan nilai akhir.
-5. Gunakan button "Exit" untuk keluar dari aplikasi.
+5. Gunakan button "Tutup" untuk keluar dari aplikasi.
 
 ## Catatan:
 
