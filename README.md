@@ -45,7 +45,7 @@ Peringatan muncul jika nilai presensi, tugas, atau bobot berada di luar batas ya
 Menyesuaikan bobot untuk setiap komponen penilaian jika diperlukan.
 3. Aplikasi secara otomatis menghitung nilai akhir dan menampilkan hasilnya.
 Pengguna mendapatkan informasi grade berdasarkan nilai akhir.
-4. Gunakan button "Reset" untuk menghapus inputan atau "Hitung" untuk mendapatkan total biaya.
+4. Gunakan button "Reset" untuk menghapus inputan atau "Hitung" untuk mendapatkan nilai akhir.
 5. Gunakan button "Exit" untuk keluar dari aplikasi.
 
 ## Catatan:
