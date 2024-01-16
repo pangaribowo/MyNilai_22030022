@@ -1,6 +1,6 @@
 # Sistem Penghitungan Nilai Mahasiswa
 
-![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/img/blob/main/apk.png)
+![Sistem Penghitungan Nilai Mahasiswa](https://github.com/pangaribowo/MyNilai_22030022/blob/main/img/apk.png)
 
 ## Deskripsi:
 
@@ -58,10 +58,10 @@ Terima kasih telah menggunakan Aplikasi Sistem Penghitungan Nilai Mahasiswa!
 
 ### Use Case Model
 
-![Use Case](https://github.com/pangaribowo/MyNilai_22030022/blob/main/uc.png)
+![Use Case](https://github.com/pangaribowo/MyNilai_22030022/blob/main/img/uc.png)
 
 ### Tampilan Setelah Input
-![Setelah Input](https://github.com/pangaribowo/MyNilai_22030022/blob/main/apk2.png)
+![Setelah Input](https://github.com/pangaribowo/MyNilai_22030022/blob/main/img/apk2.png)
 
 ...
 
